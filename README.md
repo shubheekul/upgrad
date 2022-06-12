@@ -1,5 +1,5 @@
 # upgrad
-Includes codes and hands on done during upGrad learning
-This includes all the practice sessions tried out in Advanced Certificate Programme in Cloud Backend Development.
-All the sessions are my personal coding practice that I tried out in different topics and modules.
-These are NOT copied from anywhere neither include any test or exam related stuff that should be a concern for others.
+Includes application.properties for services utilising config server.
+Config server cannot access application properties file kept in nested hierarchy.
+It should be present directly at first level in a repository. If the repository is not public
+it is required to provide credentials of the repository for config server application to access the repository.
